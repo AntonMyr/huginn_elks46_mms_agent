@@ -26,8 +26,8 @@ You can now send MMS from your Huginn instance!
 
 Check out these agents as well:
 
--   [Sending SMS from Huginn]()
--   [Making Phone calls from Huginn]()
+-   [Sending SMS from Huginn](https://github.com/AntonMyr/huginn_elks46_sms_agent)
+-   [Making Phone calls from Huginn](https://github.com/AntonMyr/huginn_elks46_phone_call_agent)
 
 ## Development
 
