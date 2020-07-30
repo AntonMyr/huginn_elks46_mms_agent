@@ -1,8 +1,8 @@
-# Elks46MmsAgent
+# 46elks MMS agent
 
-Welcome to your new agent gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/huginn_elks46_mms_agent`. To experiment with that code, run `bin/console` for an interactive prompt.
+## What is this?
 
-TODO: Delete this and the text above, and describe your gem
+This is an agent that allows you to send MMS with the help of https://46elks.com.
 
 ## Installation
 
@@ -20,9 +20,14 @@ And then execute:
 
     $ bundle
 
-## Usage
+You can now send MMS from your Huginn instance!
 
-TODO: Write usage instructions here
+## Want more?
+
+Check out these agents as well:
+
+-   [Sending SMS from Huginn]()
+-   [Making Phone calls from Huginn]()
 
 ## Development
 
